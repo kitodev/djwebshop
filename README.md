@@ -1,0 +1,2 @@
+# djwebshop
+Django Webshop
